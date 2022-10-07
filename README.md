@@ -1,10 +1,10 @@
 # Droid_Telegram_cheat
 
-How To Install and Use
+#How To Install and Use
+
 $ pkg install -y git python
 
-$ git clone https://github.com/th3unkn0n/TeleGram-Scraper.git
-
+$ git clone https://github.com/Droidmodderofficial/Droid_Telegram_cheat
 $ cd TeleGram-Scraper
 
 Install requierments
