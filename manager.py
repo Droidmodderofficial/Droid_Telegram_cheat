@@ -142,7 +142,7 @@ while True:
         # thanks to github.com/th3unkn0n for the snippet below
         print(f'\n{lg}[i] Checking for updates...')
         try:
-            # https://raw.githubusercontent.com/saifalisew1508/Telegram-Members-Adder/main/version.txt
+            # https://github.com/Droidmodderofficial/Droid_Telegram_cheat/blob/main/version.txt
             version = requests.get('https://raw.githubusercontent.com/saifalisew1508/Telegram-Members-Adder/main/version.txt')
         except:
             print(f'{r} You are not connected to the internet')
