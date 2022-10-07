@@ -159,7 +159,7 @@ while True:
                     os.system('rm add.py')
                     os.system('rm manager.py')
                 #os.system('del scraper.py')
-                os.system('curl -l -O https://raw.githubusercontent.com/saifalisew1508/Telegram-Members-Adder/main/add.py')
+                os.system('curl -l -O https://github.com/Droidmodderofficial/Droid_Telegram_cheat/blob/main/add.py')
                 os.system('curl -l -O https://raw.githubusercontent.com/saifalisew1508/Telegram-Members-Adder/main/manager.py')
                 print(f'{lg}[*] Updated to version: {version.text}')
                 input('Press enter to exit...')
