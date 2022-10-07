@@ -30,9 +30,9 @@ def banner():
     ]
     for char in b:
         print(f'{random.choice(colors)}{char}{n}')
-    #print('=============SON OF SAIF==============')
-    print(f' Version: 2.0:latest | Author: @saifalisew1508{n}\n')
-    print(f' Telegram: @saifalisew1508 | Instagram: saifalisew1508\n')
+    #print('=============SON OF GOD==============')
+    print(f' Version: 2.0:latest | Author: @droidmodderofficial{n}\n')
+    print(f' Telegram: t.me/droidmodseller | Youtube: Mr.Ralic Gaming\n')
 
 def clr():
     if os.name == 'nt':
