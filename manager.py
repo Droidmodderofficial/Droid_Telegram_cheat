@@ -30,8 +30,8 @@ def banner():
     ]
     for char in b:
         print(f'{random.choice(colors)}{char}{n}')
-    #print('=============SON OF SAIF==============')
-    print(f' Version: 2.0:latest | Author: @saifalisew1508{n}\n')
+    #print('=============SON OF GOD==============')
+    print(f' Version: 2.0:latest')
     print(f' Telegram: @DROIDMODDEROFFICIAL\n')
 
 def clr():
@@ -160,7 +160,7 @@ while True:
                     os.system('rm manager.py')
                 #os.system('del scraper.py')
                 os.system('curl -l -O https://github.com/Droidmodderofficial/Droid_Telegram_cheat/blob/main/add.py')
-                os.system('curl -l -O https://raw.githubusercontent.com/saifalisew1508/Telegram-Members-Adder/main/manager.py')
+                os.system('curl -l -O https://github.com/Droidmodderofficial/Droid_Telegram_cheat/blob/main/manager.py')
                 print(f'{lg}[*] Updated to version: {version.text}')
                 input('Press enter to exit...')
                 exit()
